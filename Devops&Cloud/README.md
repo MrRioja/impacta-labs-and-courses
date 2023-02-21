@@ -85,11 +85,7 @@ $ python -m unittest -v test
 
 ## Tecnologias
 
-<img align="left" src="https://logos-world.net/wp-content/uploads/2021/10/Python-Logo.png" alt="Python" height="75" />
-
-<img align="left" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Flask_logo.svg/1280px-Flask_logo.svg.png" alt="Flask" height="75"/>
-
-<br><br><br>
+[![My Skills](https://skillicons.dev/icons?i=py,flask)](https://skillicons.dev)
 
 ## Autor
 
