@@ -1,0 +1,27 @@
+version: "3.7"
+
+services:
+  nginx:
+    container_name: nginx
+    image: nginx:latest
+    ports:
+      - "80:80"
+    depends_on:
+      - mysql
+    networks:
+      - backend
+    command: /bin/bash -c "apt-get update && apt-get install -y default-mysql-client && nginx -g 'daemon off;'"
+
+  mysql:
+    container_name: mysql
+    image: mysql:latest
+    restart: always
+    environment:
+      MYSQL_ROOT_PASSWORD: root
+    networks:
+      - backend
+
+networks:
+  backend:
+    name: my_network
+    driver: bridge
