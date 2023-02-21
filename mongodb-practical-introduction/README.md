@@ -115,11 +115,7 @@ $ show collections
 
 ## Tecnologias
 
-<img align="left" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="75" />
-
-<img align="left" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/MongoDB_Logo.svg/2560px-MongoDB_Logo.svg.png" alt="MongoDB" height="75"/>
-
-<br><br><br>
+[![My Skills](https://skillicons.dev/icons?i=nodejs,mongodb)](https://skillicons.dev)
 
 ## Autor
 
