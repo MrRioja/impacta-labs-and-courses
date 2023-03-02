@@ -1,0 +1,53 @@
+html, body {
+  height: 100%;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  display: flex;
+  align-items: center;
+  box-sizing: border-box;
+  justify-content: center;
+}
+
+.letter {
+  width: 80%;
+  min-height: 200px;
+  position: relative;
+  border: 1px solid black;
+}
+
+.letter h1 {
+  left: -10px;
+  color: #fff;
+  text-align: center;
+  position: relative;
+  width: calc(100% + 20px);
+  background-color: #990000;
+
+}
+
+.letter h1::before {
+  left: 0;
+  top: -10px;
+  content: '';
+  border: 5px solid;
+  position: absolute;
+  border-color: transparent #990000 #990000 transparent;
+}
+
+.letter-body {
+  text-align: center;
+}
+
+.letter-actions {
+  position: absolute;
+  display: inline-block;
+  margin: 0 10px 10px 10px;
+  min-width: calc(100% - 20px);
+}
+
+.letter-actions button {
+  float: right;
+}
