@@ -50,6 +50,18 @@ Nesse backlog fizemos as seguintes ações:
 - Criação de uma nova branch para criar uma imagem da nossa aplicação e criação de containers a partir dela.
 - Abertura de portas do container no Docker Playground para podermos chamar nossa API do mundo externo.
 
+#### 3. DevSecOps 🔒
+
+Nesse backlog fizemos as seguintes ações:
+
+- Criação de conta no SonarCloud.
+- Definição de análise automática no repo do lab.
+- Inserimos a análise na pipeline do projeto.
+- Adicionamos a proteção contra CSRF.
+- Correção do Dockerfile Hardening.
+- Inserção da cobertura de código.
+- Adição de Quality Gate Block.
+
 ## Instalação
 
 Antes de começar, você vai precisar ter instalado em sua máquina as seguintes ferramentas:
