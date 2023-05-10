@@ -36,6 +36,8 @@ Deixo abaixo uma tabela com todo o conteúdo do repo organizado de acordo com ca
 |    Lab     |                    [Pentesting](pentesting)                    |
 |   Curso    | [MongoDB - Introdução pratica](mongodb-practical-introduction) |
 | Disciplina |        [Infraestrutura e Cloud Computing](infra&cloud)         |
+| Disciplina |              [Web Development](Web%20Development)              |
+| Disciplina |           [Mobile Development](Mobile%20Development)           |
 
 ## Tecnologias
 
