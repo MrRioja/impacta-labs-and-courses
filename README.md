@@ -38,6 +38,7 @@ Deixo abaixo uma tabela com todo o conteúdo do repo organizado de acordo com ca
 | Disciplina |        [Infraestrutura e Cloud Computing](infra&cloud)         |
 | Disciplina |              [Web Development](Web%20Development)              |
 | Disciplina |           [Mobile Development](Mobile%20Development)           |
+| Disciplina |     [Microservices e Serverless](Microservices&Serverless)     |
 
 ## Tecnologias
 
